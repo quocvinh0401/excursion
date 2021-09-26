@@ -1,0 +1,51 @@
+html {
+    font-family: 'Gemunu Libre', sans-serif;
+}
+div {
+    background-color: black;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+}
+
+h1, h2 {
+    color: #fff;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 42px;
+}
+
+a {
+    color: aquamarine;
+}
+
+p {
+    font-size: 21px;
+    color: gray;
+}
+
+img {
+    display: block;
+}
+
+.phone {
+    padding-top: 20px;
+}
+
+#top {
+    padding-bottom: 60px;
+}
+
+footer {
+    color: gray;
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+}
